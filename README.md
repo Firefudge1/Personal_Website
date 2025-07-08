@@ -1,4 +1,4 @@
-# personalwebsite
+# Personal Website
 
 ### Education
 Undergraduate at UT Austin (Electrical and Computer Engineering)
