@@ -8,7 +8,8 @@
 **NASA Summer Robotics Academy Intern**
 - Worked with the Lunar Terrain Vehicle Ground Test Unit (LTV-GTU) team to repair steering/propulsion motors and a brake chip.
 - Designed and began fabricating handles for an LTV-GTU mast.
-- Collaborated with other interns to prototype a 2 DOF segment of a space manipulator
+- Collaborated with other interns to prototype a 2 DOF segment of a space manipulator.<br>
+
 **FIRST Robotics Competition**
 - Led control system design and integration for the team's robots (2023; 2024)
 - Highlighted ease of maintenance and building a robust system, which led to little-to-no workmanship errors during competition seasons
